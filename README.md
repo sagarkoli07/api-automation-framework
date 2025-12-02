@@ -82,7 +82,7 @@ api_automation_framework/
 │   ├── __init__.py
 │   └── api_client.py
 │
-├── asset/
+├── assets/
 │   ├── test_run.gif
 |
 ├── utils/
