@@ -65,7 +65,7 @@ This ensures predictable and safe error handling.
 
 The GIF below shows the test running locally:
 
-![Test Execution](assets\test_run.gif)
+![Test Execution](assets/test_run.gif)
 
 ##  Folder Structure
 ```
