@@ -1,0 +1,36 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# pytest cache
+.pytest_cache/
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Cache directories
+.cache/
+*cache*/
+
+# Environment files
+.env
+*.env
+
+# Virtual environments
+venv/
+ENV/
+.env/
+.venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PyCharm
+.idea/
